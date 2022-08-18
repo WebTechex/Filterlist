@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Filterlist/static/css/main.f3239fcf.css",
+    "main.js": "/Filterlist/static/js/main.bce5832c.js",
+    "index.html": "/Filterlist/index.html",
+    "main.f3239fcf.css.map": "/Filterlist/static/css/main.f3239fcf.css.map",
+    "main.bce5832c.js.map": "/Filterlist/static/js/main.bce5832c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3239fcf.css",
+    "static/js/main.bce5832c.js"
+  ]
+}
